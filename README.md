@@ -1,10 +1,10 @@
 # 👨‍💻 Hamza Amjad | Aspiring Software Developer
 
-🌟 Aspiring Software Developer | AI & ML Enthusiast
+Aspiring Software Developer | AI & ML Enthusiast
 
 ---
 
-## 🔥 Welcome to My Profile!
+## Welcome to My Profile!
 
 I am an enthusiastic software developer with a strong foundation in programming languages, frameworks, AI, and ML.  
 Passionate about building clean, efficient, and scalable applications while continuously learning in the ever-evolving tech world.  
@@ -12,7 +12,7 @@ Explore my repositories to see my projects and contributions!
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**
 - Java, JavaScript, TypeScript
@@ -32,17 +32,9 @@ Explore my repositories to see my projects and contributions!
 - Figma
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaamjad1000&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaamjad1000&theme=radical" alt="Hamza's GitHub Streak" />
-</p>
-
 ---
 
-## 💡 Inspirations & Quotes
+## Inspirations & Quotes
 
 > "The only way to do great work is to love what you do." – Steve Jobs
 
@@ -54,7 +46,7 @@ Explore my repositories to see my projects and contributions!
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://orcid.org/0009-0002-7012-3340" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
