@@ -1,157 +1,69 @@
-<h1 align="center">Hamza Amjad | Software Developer</h1>
+# 👨‍💻 Hamza Amjad | Aspiring Software Developer
+
+🌟 Aspiring Software Developer | AI & ML Enthusiast
+
+---
+
+## 🔥 Welcome to My Profile!
+
+I am an enthusiastic software developer with a strong foundation in programming languages, frameworks, AI, and ML.  
+Passionate about building clean, efficient, and scalable applications while continuously learning in the ever-evolving tech world.  
+Explore my repositories to see my projects and contributions!
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:**
+- Java, JavaScript, TypeScript
+- C++, C#
+- React.js, Next.js
+- Node.js, React Router
+- Tailwind CSS, HTML5, CSS3
+
+**Databases & Authentication:**
+- SQL Server, MySQL
+
+**Deployment & DevOps:**
+- Vercel, GitHub Pages
+- GitHub Actions
+
+**Design & Prototyping:**
+- Figma
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  Full-Stack Developer | Web Development | Artificial Intelligence & Machine Learning Enthusiast
-</p>
-
-<p align="center">
-  Building responsive applications, exploring modern technologies, and continuously improving software engineering skills.
-</p>
-
----
-
-## Professional Summary
-
-I am a Software Engineering student and aspiring full-stack developer with a strong interest in building efficient, scalable, and user-focused applications.
-
-My development journey focuses on modern web technologies, backend architecture, artificial intelligence, and machine learning. I enjoy transforming ideas into practical software solutions while continuously improving my technical knowledge and problem-solving abilities.
-
-I believe in writing clean, maintainable code and following industry-standard development practices.
-
----
-
-# Technical Skills
-
-## Programming Languages
-
-* Java
-* JavaScript
-* TypeScript
-* Python
-* C++
-* C#
-
----
-
-## Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript ES6+
-* React.js
-* Next.js
-* Tailwind CSS
-* Bootstrap
-* Responsive Web Design
-
----
-
-## Backend Development
-
-* Node.js
-* Express.js
-* Django
-* Django REST Framework
-* REST API Development
-
----
-
-## Databases
-
-* SQL Server
-* MySQL
-* SQLite
-
----
-
-## Tools & Platforms
-
-* Git
-* GitHub
-* GitHub Pages
-* Vercel
-* GitHub Actions
-* Visual Studio Code
-* Docker
-* Figma
-
----
-
-## Artificial Intelligence & Machine Learning
-
-Currently exploring:
-
-* Machine Learning Fundamentals
-* Deep Learning Concepts
-* AI Application Development
-* Data Processing Techniques
-
----
-
-# Featured Projects
-
-Some of my projects include:
-
-* Full-stack portfolio applications
-* Responsive web applications
-* Backend API systems
-* Database-driven applications
-* AI and machine learning experiments
-
-Visit my repositories to explore my development work.
-
----
-
-# GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaamjad1000&show_icons=true&hide_border=true" alt="Hamza Amjad GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaamjad1000&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzaamjad1000&show_icons=true&theme=radical" alt="Hamza's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaamjad1000&theme=radical" alt="Hamza's GitHub Streak" />
 </p>
 
 ---
 
-# Development Philosophy
+## 💡 Inspirations & Quotes
 
-> "The best way to predict the future is to create it."
+> "The only way to do great work is to love what you do." – Steve Jobs
 
-I focus on continuous learning, improving my engineering practices, and building solutions that create real value.
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+> "Good code is its own best documentation." — Steve McConnell
+
+> "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
 
 ---
 
-# Connect With Me
+## 🌐 Connect with Me
 
 <p align="left">
-
-<a href="https://github.com/hamzaamjad1000">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/hamzaamjad10">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.upwork.com/freelancers/~014dc2036f785d6f73">
-<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white">
-</a>
-
-<a href="https://orcid.org/0009-0002-7012-3340">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
-</a>
-
+<a href="https://orcid.org/0009-0002-7012-3340" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://www.linkedin.com/in/hamzaamjad10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.upwork.com/freelancers/~014dc2036f785d6f73?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
 </p>
 
 ---
 
-# Career Goals
+⭐ **Feel free to explore my repositories and connect for exciting collaborations!**
 
-I am interested in opportunities where I can contribute to software development projects, collaborate with experienced engineers, and continue growing as a technology professional.
-
----
-
-<p align="center">
-Thank you for visiting my profile.
-</p>
+--
