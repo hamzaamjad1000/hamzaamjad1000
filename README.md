@@ -1,12 +1,12 @@
 # 👨‍💻 Hamza Amjad | Software Engineer
 
-Aspiring Software Developer | AI & ML Enthusiast
+Software Engineer | AI & ML Enthusiast
 
 ---
 
 ## Welcome to My Profile!
 
-I am an enthusiastic software developer with a strong foundation in programming languages, frameworks, AI, and ML.  
+I am an software developer with a strong foundation in programming languages, frameworks, AI, and ML.  
 Passionate about building clean, efficient, and scalable applications while continuously learning in the ever-evolving tech world.  
 Explore my repositories to see my projects and contributions!
 
