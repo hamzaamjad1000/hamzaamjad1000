@@ -1,4 +1,4 @@
-# 👨‍💻 Hamza Amjad | Aspiring Software Developer
+# 👨‍💻 Hamza Amjad | Software Engineer
 
 Aspiring Software Developer | AI & ML Enthusiast
 
